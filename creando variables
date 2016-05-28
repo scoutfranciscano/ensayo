@@ -1,6 +1,8 @@
 
 error<-runif(1000,-30,30)
 
+# Leve cambio del codigo
+
 x<-runif(1000,10,100)
 
 y<-100+2*x+error
