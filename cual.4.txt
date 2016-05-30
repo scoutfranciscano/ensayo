@@ -1,0 +1,4 @@
+expression({
+    cual <- runif(100, 10, 100)
+    cual2 <- 2 * cual
+})

@@ -1,0 +1,10 @@
+expression({
+    cat("En este pedazo de codigo se hace esto y esto y esto. Todo va en solo una linea")
+    cual <- runif(100, 10, 100)
+    cual2 <- 2 * cual
+})
+expression({
+    cat("En este pedazo de codigo se hace esto otro y esto otro. Nuevamente, todo en una linea")
+    cual <- rnorm(100, 10, 100)
+    cual2 <- 2 * cual
+})
