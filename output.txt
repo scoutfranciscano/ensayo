@@ -1,2 +1,3 @@
 cual<-runif(100,10,100)
+cual<-cual
 cual2<-2*cual
