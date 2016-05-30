@@ -10,7 +10,7 @@ reg
 
 ##############
 
-x<-runif(1000,10,100)-error
+x<-2*runif(1000,10,100)-error
 
 y<-100+2*x+error
 
