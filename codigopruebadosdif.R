@@ -10,6 +10,18 @@ reg
 
 ##############
 
+# Un comentario 
+
+# laaaargo
+
+# muuuy largo
+
+# por aqui. 
+
+# luego sigue igual
+
+#############
+
 x<-2*runif(1000,10,100)-error
 
 y<-100+2*x+error
@@ -17,3 +29,9 @@ y<-100+2*x+error
 reg<-lm(y~x-1)
 
 reg
+
+##############
+
+# Un comentario por aqui. luego sigue igual
+
+#############
